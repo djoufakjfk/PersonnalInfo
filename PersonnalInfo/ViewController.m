@@ -26,4 +26,16 @@
 }
 
 
+- (IBAction)clear_didTouchUpInside:(id)sender {
+    
+}
+
+- (IBAction)submit_didTouchUpInside:(id)sender {
+    
+}
+
+- (IBAction)modify_didTouchUpInside:(id)sender {
+    
+}
+
 @end
